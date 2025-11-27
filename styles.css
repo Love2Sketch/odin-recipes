@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(153, 183, 187)
+}
+
+h1, h2 {
+    color: rgb(255, 219, 228);
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(83, 5, 57);
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.piccred {
+    color:rgb(245, 227, 209);
+    font-size: 14px;
+}
+
+.imgbox {
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    border: 3px dashed rgb(245, 227, 209);
+}
+
+a{
+    font-family: sans-serif;
+    color: rgb(165, 10, 113);
+    font-weight: bold;
+}
+
+.contentbox, .menu {
+    background-color: rgb(250, 245, 240);
+    box-sizing: border-box;
+    width: 700px;
+    height: auto;
+    padding: 35px;
+    margin: auto;
+    margin-bottom: 50px;
+    outline: 6px dotted rgb(245, 227, 209);
+    outline-offset: 2px;
+}
+
+p.menu {
+    text-align: center;
+}
